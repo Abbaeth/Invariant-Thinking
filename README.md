@@ -223,7 +223,7 @@ owner = Bob
 
 ---
 
-## **📌 5. Purpose of Week 2**
+## **📌 5. Purpose of module**
 
 By the end of this module, you should be able to:
 
